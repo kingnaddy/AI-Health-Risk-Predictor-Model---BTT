@@ -1,4 +1,4 @@
-# Binary Classification Model – Break Through Tech AI Studio Challenge
+# AI Health Risk Predictor
 
 ---
 
