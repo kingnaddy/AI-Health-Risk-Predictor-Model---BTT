@@ -43,7 +43,7 @@
 
 ## 🏗️ **Project Overview**
 
-This project is part of the **Break Through Tech AI Studio Challenge**, aimed at applying data science and machine learning techniques to real-world datasets.  
+This project was made for the **Break Through Tech Annual Datathon**, aimed at applying data science and machine learning techniques to real-world datasets.  
 Our objective was to build a robust binary classification model capable of predicting whether an individual is a smoker based on their health examination data.
 
 **Real-world significance:**  
